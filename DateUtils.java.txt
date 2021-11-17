@@ -1,7 +1,7 @@
 class DateUtils {
 
 void convertToDate(){
-
+// The method deals with Dates
 System.out.println("This method is for Date");
 
 }
